@@ -1,0 +1,74 @@
+.collapse{
+    margin-left: 300px;
+}
+.custom-card {
+    margin: 10px; /* Kartlar arasına boşluk ekler */
+    min-height: 400px; /* Kartın minimum yüksekliği */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.custom-card img {
+    
+    object-fit: cover; /* Resmi kırpmadan orantılı küçültür */
+}
+.custom-card .card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/* Modal içeriğini daha dar yapmak */
+.modal-content {
+    margin: 15px;
+    padding: 20px;
+}
+
+/* Görseli ortalamak */
+#recipeImage {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Listeyi düzenleme */
+#recipeIngredients, #recipeDirections {
+    padding-left: 0; /* Varsayılan boşluğu kaldır */
+}
+
+#recipeIngredients li, #recipeDirections li {
+    list-style-type: none; /* Madde işaretlerini kaldır */
+    padding: 5px 0; /* Daha okunaklı hale getirmek için boşluk ekleyelim */
+    border-bottom: 1px solid #ddd; /* Hafif bir alt çizgi */
+}
+
+#recipeIngredients li:last-child, #recipeDirections li:last-child {
+    border-bottom: none; /* Son öğede çizgiyi kaldır */
+}
+
+/* Modal başlığı için ekstra boşluk */
+.modal-header {
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+}
+.login-container {
+          margin-top: 100px;
+            
+          
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+        .image-section {
+         
+            background: url('/login-mobile.webp') center/cover;
+            
+        }
+        .form-section {
+          
+          
+            padding: 80px;
+        }
