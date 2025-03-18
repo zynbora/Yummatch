@@ -3,7 +3,7 @@
     "Breakfast": {
       "Pancakes": {
         "Fluffy Buttermilk Pancakes": {
-          "image":"/img/1.webp",
+          "image":"./img/1.webp",
           "time": "20 minutes",
           "ingredients": [
             "2 cups all-purpose flour",
