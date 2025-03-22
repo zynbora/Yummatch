@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <div class="card-body">
                                 <h5 class="card-title">${recipe}</h5>
                                 <p class="card-text"><strong>Time:</strong> ${recipeData.time}</p>
-                                <button class="btn btn-primary show-recipe-btn" data-bs-toggle="modal" data-bs-target="#recipeModal"
+                                <button class="btn show-recipe-btn" data-bs-toggle="modal" data-bs-target="#recipeModal"
                                     data-name="${recipe}"
                                     data-image="${recipeData.image}"
                                     data-time="${recipeData.time}"
