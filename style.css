@@ -1,3 +1,114 @@
+.logo-box {
+            width: 100%;
+            max-width: 400px;
+            height: 200px;
+           
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            margin-top: 20px;
+            color: #aaa;
+            font-size: 14px;
+            box-shadow: var(--box-shadow);
+        }
+
+
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 300px; 
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    
+}
+h1{text-align: center; padding: 15px 0px 0px 0px;}
+.form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-btn {
+    background-color: red; 
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    max-width: 300px;
+    
+}
+
+/* Kırmızı buton üzerine gelince değişmesin */
+.login-btn:hover,
+.login-btn:focus {
+    background-color: red !important;
+    color: white !important;
+}
+
+/* Link ve metinleri ortala */
+.forgot-password,
+.create-account,
+.continue-without-account-box {
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.continue-without-account-box {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+}
+.logo-box{
+    width: 100%;
+   
+}
+.logo-box img{width: 400px; height: 150px;}
+a.btn.btn-red{
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    padding: 10px;
+    
+    text-decoration: none;
+    cursor: pointer;
+}
+/* Butonun genel görünümü */
+.btn.show-recipe-btn {
+    background-color: red; /* Turuncu renk */
+    color: white;
+   
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+/* Üzerine gelince değişiklik olmasını engelle */
+.btn.show-recipe-btn:hover,
+.btn.show-recipe-btn:focus,
+.btn.show-recipe-btn:active {
+    background-color: red !important; /* Rengi değiştirme */
+    color: white !important; /* Yazıyı değiştirme */
+    transform: none !important; /* Butonun boyutunu değiştirme */
+    box-shadow: none !important; /* Gölge efektini kaldır */
+}
+
 .collapse{
     margin-left: 300px;
 }
