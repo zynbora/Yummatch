@@ -26,7 +26,7 @@
           ]
         },
            "Banana Pancakes": {
-            "image":"/img/2.webp",
+            "image":"./img/2.webp",
           "time": "30 minutes",
           "ingredients": [
             "2 cups all-purpose flour",
@@ -50,7 +50,7 @@
           ]
         },
         "Chocolate Chip Pancakes": {
-          "image":"/img/3.webp",
+          "image":"./img/3.webp",
           "time": "25 minutes",
           "ingredients": [
             "2 cups all-purpose flour",
@@ -75,7 +75,7 @@
         }
       },
       "Omelets": {
-        "Cheese Omelet": {"image":"/img/4.webp",
+        "Cheese Omelet": {"image":"./img/4.webp",
           "time": "10 minutes",
           "ingredients": [
             "3 large eggs",
@@ -92,7 +92,7 @@
             "Serve hot."
           ]
         },
-        "Mushroom Omelet": {"image":"/img/5.webp",
+        "Mushroom Omelet": {"image":"./img/5.webp",
           "time": "15 minutes",
           "ingredients": [
             "3 large eggs",
@@ -109,7 +109,7 @@
             "Serve hot."
           ]
         },
-        "Classic Omelet": {"image":"/img/6.webp",
+        "Classic Omelet": {"image":"./img/6.webp",
           "time": "10 minutes",
           "ingredients": [
             "3 large eggs",
@@ -129,7 +129,7 @@
       },
       "Waffles":{
          "Belgian Waffles": {
-          "image":"/img/7.webp",
+          "image":"./img/7.webp",
           "time": "25 minutes",
           "ingredients": [
             "2 cups all-purpose flour",
@@ -150,7 +150,7 @@
           ]
         },
         "Chocolate Waffles": {
-          "image":"/img/8.webp",
+          "image":"./img/8.webp",
           "time": "30 minutes",
           "ingredients": [
             "2 cups all-purpose flour",
@@ -171,7 +171,7 @@
           ]
         },
         "Fruit Waffles": {
-          "image":"/img/9.webp",
+          "image":"./img/9.webp",
           "time": "30 minutes",
           "ingredients": [
             "2 cups all-purpose flour",
@@ -194,7 +194,7 @@
         }
       },
        "Smoothies": {
-        "Berry Smoothie": {"image":"/img/10.webp",
+        "Berry Smoothie": {"image":"./img/10.webp",
           "time": "5 minutes",
           "ingredients": [
             "1 cup frozen berries",
@@ -207,7 +207,7 @@
             "Serve immediately."
           ]
         },
-        "Tropical Smoothie": {"image":"/img/11.webp",
+        "Tropical Smoothie": {"image":"./img/11.webp",
           "time": "5 minutes",
           "ingredients": [
             "1/2 cup pineapple chunks",
@@ -220,7 +220,7 @@
             "Serve immediately."
           ]
         },
-        "Green Smoothie": {"image":"/img/12.webp",
+        "Green Smoothie": {"image":"./img/12.webp",
           "time": "5 minutes",
           "ingredients": [
             "1 cup spinach",
@@ -238,7 +238,7 @@
     "Salads": {
       "Green Salads": {
         "Classic Garden Salad": {
-          "image":"/img/13.webp",
+          "image":"./img/13.webp",
           "time": "10 minutes",
           "ingredients": [
             "2 cups mixed greens",
@@ -257,7 +257,7 @@
           ]
         },
         "Caesar Salad": {
-          "image":"/img/14.webp",
+          "image":"./img/14.webp",
           "time": "15 minutes",
           "ingredients": [
             "4 cups romaine lettuce, chopped",
@@ -275,7 +275,7 @@
       },
       "Pasta Salads": {
         "Creamy Tuna Pasta Salad": {
-          "image":"/img/15.webp",
+          "image":"./img/15.webp",
         "time": "25 minutes",
         "ingredients": [
           "2 cups cooked pasta",
@@ -293,7 +293,7 @@
         ]
       },
         "Mediterranean Pasta Salad": {
-          "image":"/img/16.webp",
+          "image":"./img/16.webp",
           "time": "20 minutes",
           "ingredients": [
             "2 cups cooked pasta",
@@ -315,7 +315,7 @@
       },
       "Potato Salads": {
       "Classic Potato Salad": {
-        "image":"/img/17.webp",
+        "image":"./img/17.webp",
         "time": "30 minutes",
         "ingredients": [
           "4 cups boiled potatoes, cubed",
@@ -332,7 +332,7 @@
         ]
       },
       "German Potato Salad": {
-        "image":"/img/18.webp",
+        "image":"./img/18.webp",
         "time": "35 minutes",
         "ingredients": [
           "4 cups boiled potatoes, sliced",
@@ -355,7 +355,7 @@
     },
      "Fruit Salads": {
       "Tropical Fruit Salad": {
-        "image":"/img/19.webp",
+        "image":"./img/19.webp",
         "time": "15 minutes",
         "ingredients": [
           "1 cup pineapple, diced",
@@ -373,7 +373,7 @@
         ]
       },
       "Berry Medley Salad": {
-        "image":"/img/20.webp",
+        "image":"./img/20.webp",
         "time": "10 minutes",
         "ingredients": [
           "1 cup blueberries",
@@ -393,7 +393,7 @@
     "Lunch": {
 "Sandwiches": {
 "Classic BLT Sandwich": {
-   "image":"/img/21.webp",
+   "image":"./img/21.webp",
 "time": "10 minutes",
 "ingredients": [
 "2 slices of bread",
@@ -414,7 +414,7 @@
 },
 "Soups": {
 "Tomato Soup": {
-   "image":"/img/22.webp",
+   "image":"./img/22.webp",
 "time": "30 minutes",
 "ingredients": [
 "4 cups canned tomatoes",
@@ -434,7 +434,7 @@
 },
 "Wraps": {
 "Chicken Caesar Wrap": {
-   "image":"/img/25.webp",
+   "image":"./img/25.webp",
 "time": "20 minutes",
 "ingredients": [
 "1 grilled chicken breast, sliced",
@@ -453,7 +453,7 @@
 },
 "Burgers": {
 "Classic Cheeseburger": {
-   "image":"/img/23.webp",
+   "image":"./img/23.webp",
 "time": "15 minutes",
 "ingredients": [
 "1 beef patty",
@@ -473,7 +473,7 @@
 },
 "Pizza": {
 "Margherita Pizza": {
-   "image":"/img/24.webp",
+   "image":"./img/24.webp",
 "time": "25 minutes",
 "ingredients": [
 "1 pizza dough",
@@ -497,7 +497,7 @@
       "Whole Chicken": {
         
       "Roast Whole Chicken": {
-        "image":"/img/26.webp",
+        "image":"./img/26.webp",
         "time": "1 hour 30 minutes",
         "ingredients": [
           "1 whole chicken (4-5 lbs)",
@@ -517,7 +517,7 @@
         ]
       },
       "Herb-Butter Whole Chicken": {
-        "image":"/img/27.webp",
+        "image":"./img/27.webp",
         "time": "1 hour 40 minutes",
         "ingredients": [
           "1 whole chicken (4-5 lbs)",
@@ -538,7 +538,7 @@
     },
     "Fried Chicken": {
       "Classic Fried Chicken": {
-        "image":"/img/28.webp",
+        "image":"./img/28.webp",
         "time": "45 minutes",
         "ingredients": [
           "8 pieces chicken (thighs, drumsticks, breasts)",
@@ -559,7 +559,7 @@
         ]
       },
       "Spicy Fried Chicken": {
-        "image":"/img/29.webp",
+        "image":"./img/29.webp",
         "time": "50 minutes",
         "ingredients": [
           "8 pieces chicken",
@@ -581,7 +581,7 @@
     },
     "Chicken Wings": {
       "Buffalo Chicken Wings": {
-        "image":"/img/30.webp",
+        "image":"./img/30.webp",
         "time": "30 minutes",
         "ingredients": [
           "2 lbs chicken wings",
@@ -599,7 +599,7 @@
         ]
       },
       "Honey BBQ Wings": {
-        "image":"/img/31.webp",
+        "image":"./img/31.webp",
         "time": "40 minutes",
         "ingredients": [
           "2 lbs chicken wings",
@@ -619,7 +619,7 @@
     },
     "Chicken Tenders": {
       "Crispy Chicken Tenders": {
-        "image":"/img/32.webp",
+        "image":"./img/32.webp",
         "time": "30 minutes",
         "ingredients": [
           "1 lb chicken tenders",
@@ -638,7 +638,7 @@
         ]
       },
       "Baked Parmesan Chicken Tenders": {
-        "image":"/img/33.webp",
+        "image":"./img/33.webp",
         "time": "25 minutes",
         "ingredients": [
           "1 lb chicken tenders",
