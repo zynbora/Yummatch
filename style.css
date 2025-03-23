@@ -59,11 +59,13 @@ h1{text-align: center; padding: 15px 0px 0px 0px;}
 
 /* Link ve metinleri ortala */
 .forgot-password,
-.create-account,
-.continue-without-account-box {
+.create-account a,
+.continue-without-account-box,
+button.btn.btn-red{
     text-align: center;
     margin-top: 10px;
     cursor: pointer;
+    color:black;
 }
 
 
